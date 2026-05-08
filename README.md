@@ -1,6 +1,6 @@
-# Advent of Code 2020 - Days 1 through 7
+Advent of Code Days 1 through 7
 
-This repo contains JavaScript solutions for the first 7 days of Advent of Code 2020.
+JavaScript solutions for the first 7 days of Advent of Code 2020.
 
 ## How to run
 
@@ -17,4 +17,3 @@ node solutions.js
 - `solutions.js` - all solutions for days 1 through 7
 - `inputs/day01.txt` through `inputs/day07.txt` - input files
 
-The input files currently contain the examples from the problem statements so the code can be tested immediately. Replace them with your own puzzle inputs before submitting final answers.
